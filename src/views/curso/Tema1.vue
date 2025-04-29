@@ -162,7 +162,7 @@
     p.mb-4 A partir de la lectura crítica del PEI de la institución donde desarrolla su práctica:
 
     .row.justify-content-center.align-items-stretch.mb-4
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-7.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -171,7 +171,7 @@
               h5 Primero
               p.mb-0 ¿De qué manera se reflejan estos principios en la realidad educativa?
 
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .bg-color-7.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -184,7 +184,7 @@
     p.mb-5 En el contexto educativo colombiano, el Ministerio de Educación Nacional establece una serie de proyectos transversales que buscan fortalecer la formación integral de los estudiantes desde la primera infancia. Entre estos se destacan:
 
     .row.justify-content-center.align-items-stretch.mb-3
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .bg-color-5.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -193,7 +193,7 @@
               h5 Primero
               p.mb-0 Educación para la Sexualidad y Construcción de Ciudadanía.
 
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .bg-color-5.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -201,7 +201,7 @@
             .col-lg
               h5 Segundo
               p.mb-0 Educación Ambiental.
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .bg-color-5.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -210,7 +210,7 @@
               h5 Tercero
               p.mb-0 Educación para la Paz y la Convivencia.
     .row.justify-content-center.align-items-stretch.mb-3
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .bg-color-5.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -219,7 +219,7 @@
               h5 Cuarto
               p.mb-0 Uso Educativo de las TIC.
 
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .bg-color-5.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -227,7 +227,7 @@
             .col-lg
               h5 Quinto
               p.mb-0 Educación en Derechos Humanos.
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .bg-color-5.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -262,8 +262,8 @@
           div.col-lg-4.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100.align-content-center
               p.mb-0.text-center Estas iniciativas permiten integrar de manera dinámica y significativa diversas temáticas esenciales para la formación integral de los niños y las niñas, superando la fragmentación de los contenidos y acercando el aprendizaje a la vida cotidiana.
-          img.pst.d-none.d-md-flex(src="@/assets/curso/tema1/35.svg", style="max-width: 90px", data-aos="zoom-in")
-          img.pst_1.d-none.d-md-flex(src="@/assets/curso/tema1/35.svg", style="max-width: 90px", data-aos="zoom-in")
+          img.pst.d-none.d-lg-flex(src="@/assets/curso/tema1/35.svg", style="max-width: 90px", data-aos="zoom-in")
+          img.pst_1.d-none.d-lg-flex(src="@/assets/curso/tema1/35.svg", style="max-width: 90px", data-aos="zoom-in")
 
         .row.mb-5
           .col-lg-4.order-2
@@ -286,8 +286,8 @@
           div.col-lg-4.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100.align-content-center
               p.mb-0.text-center Cada uno de estos ejes responde a necesidades sociales urgentes y contribuye con la formación de ciudadanos más conscientes y participativos desde la primera infancia.
-          img.pst.d-none.d-md-flex(src="@/assets/curso/tema1/35.svg", style="max-width: 90px", data-aos="zoom-in")
-          img.pst_1.d-none.d-md-flex(src="@/assets/curso/tema1/35.svg", style="max-width: 90px", data-aos="zoom-in")
+          img.pst.d-none.d-lg-flex(src="@/assets/curso/tema1/35.svg", style="max-width: 90px", data-aos="zoom-in")
+          img.pst_1.d-none.d-lg-flex(src="@/assets/curso/tema1/35.svg", style="max-width: 90px", data-aos="zoom-in")
     
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -327,7 +327,7 @@
               p.mb-0 A través de esta exploración, conoceremos estrategias didácticas y metodologías activas que transforman el aprendizaje en una aventura emocionante en prejardín y jardín. Además, descubriremos cómo el juego, el arte, la exploración y la literatura, se convierten en herramientas esenciales para potenciar la curiosidad y la creatividad de los más pequeños.
         p(data-aos="fade-left") Finalmente, reflexionaremos sobre la evaluación del desarrollo infantil, un proceso clave para comprender los avances de cada niño y adaptar las estrategias pedagógicas a sus necesidades.
 
-    .bg-full-width.bg-color-8.mb-lg-5
+    .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-3.mb-lg-0
@@ -386,10 +386,10 @@
                 p Refuerza el compromiso del Estado, las familias y la sociedad, en la formación y el desarrollo infantil.
     
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/33.png", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         p(data-aos="fade-left") Ahora bien, más allá de la teoría, resulta fundamental analizar cómo estas normativas se aplican en la práctica dentro de las instituciones educativas. En este sentido, el microcurrículo de cada centro debe responder a los lineamientos generales del macrocurrículo, adaptándolos a la realidad y necesidades específicas de la comunidad educativa.
     
         .bg-color-2.p-4.mb-5(data-aos="fade-left")
