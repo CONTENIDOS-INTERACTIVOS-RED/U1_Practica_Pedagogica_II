@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La Unidad 3: Bioética y sostenibilidad en el desarrollo económico global, establece los principios esenciales para comprender cómo los valores éticos y bioéticos pueden orientar el desarrollo económico hacia la sostenibilidad. Esta unidad proporciona una perspectiva integral sobre la relación entre la economía, el medio ambiente y los derechos humanos, destacando la importancia de prácticas responsables en contextos globalizados. Este enfoque asegura que los estudiantes adquieran una comprensión sólida de los desafíos éticos actuales y las estrategias sostenibles, permitiéndoles aplicar estas herramientas de manera efectiva en su formación profesional y en la vida cotidiana.
+      p(data-aos="fade-up").mb-5 La unidad 1: Reconocimiento del contexto institucional a través de la observación y revisión documental, permite a los estudiantes analizar la estructura organizativa, pedagógica y normativa de las instituciones educativas de educación inicial. A través de la observación directa y el análisis de documentos como el Proyecto Educativo Institucional (PEI) y los proyectos transversales, se busca articular la teoría con la práctica pedagógica, identificando fortalezas y oportunidades de mejora en la planificación educativa. Esta unidad promueve una reflexión crítica sobre la relación entre la normativa vigente y la realidad institucional, con el objetivo de fortalecer las estrategias de enseñanza y mejorar el desarrollo infantil.
 
       .row.justify-content-center
         .col-lg-12.mb-5
