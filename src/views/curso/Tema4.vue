@@ -103,28 +103,28 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              '¿Cuál de los siguientes documentos define la estructura organizativa, pedagógica y normativa de una institución educativa?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto: 'Manual de Convivencia',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
+                texto: 'Proyecto Educativo Institucional (PEI)',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto: 'Reglamento Estudiantil',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto: 'Plan de Estudios',
                 esCorrecta: false,
               },
             ],
@@ -134,28 +134,29 @@ export default {
           {
             id: 2,
             texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+              '¿Qué estrategia es clave en la observación del contexto institucional durante la práctica pedagógica?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
+                texto: 'Realizar entrevistas sin registro formal',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
+                texto: 'Evaluar a los docentes titulares',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto: 'Aplicar listas de chequeo y notas de campo ',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                texto:
+                  'Memorizar el funcionamiento del colegio sin evidencia escrita',
                 esCorrecta: false,
               },
             ],
@@ -165,28 +166,29 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              'Según la normatividad colombiana, ¿cuál es el propósito fundamental del nivel de Prejardín?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
+                texto:
+                  'Promover la exploración, el juego y la interacción social',
                 esCorrecta: true,
               },
               {
+                id: 'b',
+                texto: 'Desarrollar habilidades matemáticas avanzadas',
+                esCorrecta: false,
+              },
+              {
                 id: 'c',
-                texto: 'Determinar la culpabilidad',
+                texto: 'Iniciar la enseñanza de la escritura y lectura formal',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                texto: 'Evaluar el rendimiento académico de los niños y niñas',
                 esCorrecta: false,
               },
             ],
@@ -195,28 +197,29 @@ export default {
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto:
+              'En el nivel de Jardín, ¿qué dimensión del desarrollo infantil se enfoca en la expresión oral y gestual?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
+                texto: 'Dimensión corporal',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto: 'Dimensión estética',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto: 'Dimensión comunicativa ',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto: 'Dimensión socioafectiva',
                 esCorrecta: false,
               },
             ],
@@ -226,28 +229,30 @@ export default {
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              '¿Cuál de las siguientes características es fundamental en la organización de una institución educativa según la normativa vigente?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
+                texto:
+                  'La implementación de un currículo flexible y contextualizado ',
                 esCorrecta: true,
               },
               {
+                id: 'b',
+                texto: 'La ausencia de evaluación en educación inicial',
+                esCorrecta: false,
+              },
+              {
                 id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto: 'La estandarización de metodologías sin adaptaciones',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto:
+                  'La eliminación de actividades lúdicas en el aprendizaje',
                 esCorrecta: false,
               },
             ],
