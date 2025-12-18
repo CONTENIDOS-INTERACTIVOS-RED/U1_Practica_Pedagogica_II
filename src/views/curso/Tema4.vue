@@ -8,7 +8,7 @@
         figure
           img(src="@/assets/curso/tema4/1.svg", data-aos="zoom-in")
       .col-lg-8.order-1.mb-3.mb-lg-0
-        p(data-aos="fade-left") Para comprender la identidad y el propósito de una institución educativa, es imprescindible conocer su Proyecto Educativo Institucional (PEI). Este documento, lejos de ser un simple requisito administrativo, constituye la esencia de la institución, dado que define su orientación pedagógica, sus valores y el camino que seguirá para alcanzar sus objetivos. A través del PEI, cada comunidad educativa establece las bases sobre las cuales se organizará el aprendizaje, la convivencia y la gestión escolar (Alvarado y Mendoza, 2011).
+        p(data-aos="fade-left") ¿Cómo se estructuran los procesos de aprendizaje en el nivel de jardín y de qué manera las instituciones educativas asegurarán un desarrollo integral en los niños y las niñas? La educación inicial no solo buscará la adquisición de conocimientos, sino que también promoverá un desarrollo armónico en diversas dimensiones. Para entender cómo se trabajarán estas dimensiones en las instituciones educativas y cómo se articulará con los lineamientos nacionales en educación inicial, será esencial reconocer el marco institucional y normativo, que regirá la educación preescolar.
     
     .row.align-items-start.mb-5
       .col-lg-4.order-2
@@ -68,15 +68,15 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              a(href="https://repository.libertadores.edu.co/server/api/core/bitstreams/5a933b07-ee75-4049-a6a9-f4ac6ba1375e/content" target="_blank" rel="noopener noreferrer") Mora Garzón, C. A. (2020). La dimensión cognitiva a través de la lúdica en los niños del grado Jardín en la institución Burbujas de Alegría.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=qW6EVp9qApM" target="_blank" rel="noopener noreferrer") El mundo del educador. (2019, 12 de octubre). Desarrollo integral infantil [Video]. YouTube.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://jardininfantilpelusa.edu.co/blog/" target="_blank" rel="noopener noreferrer") Blog | Jardín Infantil Pelusa | Educación Infantil | Primera infancia. (s.f.). Pelusa.
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure

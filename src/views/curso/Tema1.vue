@@ -428,15 +428,7 @@
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://repositorio.ciedupanama.org/handle/123456789/470 " target="_blank" rel="noopener noreferrer") Llanos Lora, D. E., & Roa Fuentes, S. (2023). Una mirada al Proyecto Educativo Institucional (PEI) de la Institución Educativa Luis Calixto Leiva (Huila, Colombia): Concepciones sobre competencia, resolución de problemas y evaluación.  
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://repository.uniminuto.edu/items/85732691-10dc-49ae-a01f-f9c76f17121b " target="_blank" rel="noopener noreferrer") Murillo Osorio, M. C. (2018). Fortalecimiento a los proyectos transversales (Doctoral dissertation, Corporación Universitaria Minuto de Dios). 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://repositorio.une.edu.pe/entities/publication/c4893653-03a1-416c-a2ef-9362151dc82f " target="_blank" rel="noopener noreferrer") Salazar Herrera, E. N. (2021). El método Reggio Emilia y su aplicación en niños de educación inicial.  
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://edutechnia.com/es/blog-articulo/257/Infraestructura-escolar-importante-para-la-calidad-de-la-educacin" target="_blank" rel="noopener noreferrer") Bogotá - Corferias. (s.f.). Edutechnia. 
+
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://blog.up.edu.mx/posgrados-pedagogia/las-10-funciones-principales-del-director-escolar " target="_blank" rel="noopener noreferrer") Las 10 funciones principales del director escolar. (s.f.). Mejora tu futuro con la mejor universidad de mexico - UP. 

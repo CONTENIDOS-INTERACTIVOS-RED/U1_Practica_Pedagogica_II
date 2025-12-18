@@ -107,9 +107,7 @@
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://revistas.ucv.edu.pe/index.php/ucv-hacer/article/view/551 " target="_blank" rel="noopener noreferrer") Urbina, M. R. D. C. N., & Aguinaga, M. C. P. (2020). El juego en la identidad y autonomía del niño. UCV Hacer, 9(1), 11-17. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://blogs.iadb.org/educacion/es/category/desarrollo-infantil-temprano-y-educacion-inicial/ " target="_blank" rel="noopener noreferrer") Desarrollo infantil temprano y educación inicial Archives - Enfoque Educación. (s.f.). Enfoque Educación. 
+
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://blogs.iadb.org/desarrollo-infantil/es/5-maneras-de-mejorar-el-aprendizaje-de-los-ninos/ " target="_blank" rel="noopener noreferrer") 5 maneras de mejorar el aprendizaje de los niños. (s.f.). Primeros Pasos. 
